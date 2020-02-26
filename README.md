@@ -1,5 +1,9 @@
-# hello-world
-Just another repository
+# This is a repository for a brief explanation and application of Random Walk and Monte Carlo Simulation
 
-This is just a trial. I am a newb please be kind.
-Would like some cold brew.
+Files:
+  Database:
+    Image: Contains the images for the purpose of explanation in creixotradeos.github.io
+  Notebook:
+    Contains Jupyter Notebook code
+  Output:
+    None
